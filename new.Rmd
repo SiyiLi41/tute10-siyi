@@ -21,6 +21,6 @@ renv::init()
 
 
 ```{r}
-
+renv::snapshot()
 ```
 
