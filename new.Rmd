@@ -1,0 +1,13 @@
+---
+author: "Siyi"
+title: "Tute 10"
+output:
+  bookdown::html_document2
+
+---
+
+```{r libraries, message=FALSE}
+library(dplyr)
+library(ggplot2)
+```
+
